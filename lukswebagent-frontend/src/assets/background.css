@@ -1,0 +1,6 @@
+body {
+  background-image: url("./genshin.png");
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: top;
+}
